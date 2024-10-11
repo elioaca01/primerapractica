@@ -13,14 +13,12 @@ body{
     justify-content: space-between;
 }
 
-
 .post-header-left{
    display: flex;
 }
 
 .usuario{
-    height: 50px;
-    text-align: ;
+    height: 50px;   
 }
 
 .fa-html5,
@@ -31,7 +29,6 @@ body{
 
 .container-imagen{
     width: 100%;
-
 }
 
 img{
